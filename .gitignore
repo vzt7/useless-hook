@@ -7,3 +7,7 @@ src/**.js
 coverage
 *.log
 package-lock.json
+.temp
+.cache
+docs/.vuepress/.*
+docs/.vuepress/dist
